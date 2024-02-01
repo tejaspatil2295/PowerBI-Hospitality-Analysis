@@ -1,1 +1,5 @@
 # PowerBI-Hospitality-Analysis
+Atliq Grands noticed a loss in their market share and revenue over a few months. To diagnose the cause of this loss, they needed a way to analyze this. I streamlined a dashboard in Power BI using 3 months of data.
+In this dashboard some of the essential key metrics required in the domain are analyzed which are ADR(Average Daily Rate), RevPAR(Revenue per Average Rooms), Capacity %, DSRN(Daily Sellable Room Nights),DURN(Daily Utilized Room Nights),Realization % along with Week over Week change % of the metrics respectively, thus doing tier 1 and tier 2 analysis. This is done on various parameters to give a proper insight from the requirement mentioned by the revenue team.
+Also the category wise analysis of revenue is done to understand which category performing good. Analysis based on key metrics on booking platform, week number are done.
+●	With this dashboard, the Revenue team of Atliq Grands was able to gain insights into their revenue trend. This could help them to regain their revenue and market share of 20% in the next month.
